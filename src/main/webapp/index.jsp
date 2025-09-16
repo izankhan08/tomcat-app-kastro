@@ -16,7 +16,7 @@
         <div class="nav-container">
             <div class="nav-brand">
                 <i class="fas fa-graduation-cap"></i>
-                <span>JDK Batch 06</span>
+                <span>JDKT Batch 06</span>
             </div>
             <div class="nav-menu">
                 <a href="#home" class="nav-link">Home</a>
@@ -42,7 +42,7 @@
                 <h1 class="hero-title">
                     Welcome to 
                     <span class="gradient-text">JDKT Training</span>
-                    <div class="batch-badge">Batch 06</div>
+                    <div class="batch-badge">Batch 6</div>
                 </h1>
                 <div class="instructor-info">
                     <div class="instructor-avatar">
